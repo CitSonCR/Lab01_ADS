@@ -1,0 +1,9 @@
+C:\Users\ulacit\Documents\GitHub\Lab01_ADS\Lab01.Console\Console\bin\Debug\Console.exe.config
+C:\Users\ulacit\Documents\GitHub\Lab01_ADS\Lab01.Console\Console\bin\Debug\Console.exe
+C:\Users\ulacit\Documents\GitHub\Lab01_ADS\Lab01.Console\Console\bin\Debug\Console.pdb
+C:\Users\ulacit\Documents\GitHub\Lab01_ADS\Lab01.Console\Console\obj\Debug\Lab01.Console.csproj.CoreCompileInputs.cache
+C:\Users\ulacit\Documents\GitHub\Lab01_ADS\Lab01.Console\Console\obj\Debug\Console.exe
+C:\Users\ulacit\Documents\GitHub\Lab01_ADS\Lab01.Console\Console\obj\Debug\Console.pdb
+C:\Users\ulacit\Documents\GitHub\Lab01_ADS\Lab01.Console\Console\bin\Debug\Lab01.Console.dll
+C:\Users\ulacit\Documents\GitHub\Lab01_ADS\Lab01.Console\Console\bin\Debug\Lab01.Console.pdb
+C:\Users\ulacit\Documents\GitHub\Lab01_ADS\Lab01.Console\Console\obj\Debug\Lab01.Console.csprojResolveAssemblyReference.cache
